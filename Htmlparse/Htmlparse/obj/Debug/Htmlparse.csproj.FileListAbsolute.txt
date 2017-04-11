@@ -1,0 +1,12 @@
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\Htmlparse.exe.config
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\Htmlparse.exe
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\Htmlparse.pdb
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.Form1.resources
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.Properties.Resources.resources
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.csproj.GenerateResource.Cache
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.exe
+D:\VisualStudio\Htmlparse\Htmlparse\obj\Debug\Htmlparse.pdb
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\HtmlAgilityPack.dll
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\HtmlAgilityPack.pdb
+D:\VisualStudio\Htmlparse\Htmlparse\bin\Debug\HtmlAgilityPack.xml
